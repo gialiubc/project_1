@@ -11,6 +11,7 @@ In this project, we will be analyzing a dataset containing all of the billionair
 ## Project Content
 - A PPT slides of Who Are The Billionaires;
 - A Jupyter notebook file containing the codes, graphs, and the prediction model.
+- A summary report with analysis of the result. For more information please see the file named "report_who_are_the_billionaires".
 
 ## Notes
 This data analysis is conducted as a group project with Bochao Gia Liu, Kevin Tian and Navjeet Ghuman. 
